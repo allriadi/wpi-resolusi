@@ -1,15 +1,18 @@
 RENCANA KONTEN WPI
 
- *ES6
- *framework Javascrpt
+ - *ES6
+ - *framework Javascrpt
+   * test
  ^ Vue
   ^ step 1
   ^ step 2
   ^ React
 - PHP Fremeworks
 - buat affter
- ^ Laravel
-  ^ laravel
+  ^ sama
+ ^Laravel
+ - belajar
+- Interview
 - Vlogs
 - Python
 - css
