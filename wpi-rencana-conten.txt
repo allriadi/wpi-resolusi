@@ -1,13 +1,16 @@
 RENCANA KONTEN WPI
 
- *ES6
- *framework Javascrpt
+ - *ES6
+ - *framework Javascrpt
+   * test
  ^ Vue
  ^React
 - struktur Data Dasar
 - PHP Fremeworks
 - buat affter
+  ^ sama
  ^Laravel
+ - belajar
 - Interview
 - Vlogs
 - Python
