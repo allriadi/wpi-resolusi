@@ -10,3 +10,5 @@ RENCANA KONTEN WPI
 - Interview
 - Vlogs
 - Python
+- css
+- html
