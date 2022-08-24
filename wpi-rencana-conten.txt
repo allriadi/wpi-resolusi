@@ -4,8 +4,9 @@ RENCANA KONTEN WPI
  - *framework Javascrpt
    * test
  ^ Vue
- ^React
-- struktur Data Dasar
+  ^ step 1
+  ^ step 2
+  ^ React
 - PHP Fremeworks
 - buat affter
   ^ sama
