@@ -1,0 +1,12 @@
+RENCANA KONTEN WPI
+
+ *ES6
+ *framework Javascrpt
+ ^ Vue
+ ^React
+- struktur Data Dasar
+- PHP Fremeworks
+ ^Laravel
+- Interview
+- Vlogs
+- Python
